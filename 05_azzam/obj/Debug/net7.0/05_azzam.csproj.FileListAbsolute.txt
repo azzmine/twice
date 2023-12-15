@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\05_azzam\05_azzam\bin\Debug\net7.0\05_azzam.exe
+C:\Users\User\Desktop\05_azzam\05_azzam\bin\Debug\net7.0\05_azzam.deps.json
+C:\Users\User\Desktop\05_azzam\05_azzam\bin\Debug\net7.0\05_azzam.runtimeconfig.json
+C:\Users\User\Desktop\05_azzam\05_azzam\bin\Debug\net7.0\05_azzam.dll
+C:\Users\User\Desktop\05_azzam\05_azzam\bin\Debug\net7.0\05_azzam.pdb
+C:\Users\User\Desktop\05_azzam\05_azzam\obj\Debug\net7.0\05_azzam.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\05_azzam\05_azzam\obj\Debug\net7.0\05_azzam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\05_azzam\05_azzam\obj\Debug\net7.0\05_azzam.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\05_azzam\05_azzam\obj\Debug\net7.0\05_azzam.AssemblyInfo.cs
+C:\Users\User\Desktop\05_azzam\05_azzam\obj\Debug\net7.0\05_azzam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\05_azzam\05_azzam\obj\Debug\net7.0\05_azzam.dll
+C:\Users\User\Desktop\05_azzam\05_azzam\obj\Debug\net7.0\refint\05_azzam.dll
+C:\Users\User\Desktop\05_azzam\05_azzam\obj\Debug\net7.0\05_azzam.pdb
+C:\Users\User\Desktop\05_azzam\05_azzam\obj\Debug\net7.0\05_azzam.genruntimeconfig.cache
+C:\Users\User\Desktop\05_azzam\05_azzam\obj\Debug\net7.0\ref\05_azzam.dll
