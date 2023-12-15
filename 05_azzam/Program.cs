@@ -15,7 +15,7 @@ namespace bangun_ruang
                 Console.WriteLine("Welcome (^_^)");
                 Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
                 Console.WriteLine("Aplikasi Penghitung Volume Bangun Ruang Dari : ");
-                Console.WriteLine("Nama     : Azzam Ahmad Zain");
+                Console.WriteLine("Nama     : Azzam Ahmad Zain2");
                 //Guru Pembibing : 
                 // 1. Moh. Shobirin
                 // 2. Halimatus Sa'diyah
